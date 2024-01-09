@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "i develop applications using technologies such as js, ts and frameworks such as React and Next, using concepts such as SOLID, components, clean code and interfaces "
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Data Science",
+      "description": "I develop applications that, based on a database, are processed and analyzed, generating results that have a positive impact on your business, using the Python language and various libraries for data analysis and graphic generation."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "ML & AI",
+      "description": "I develop algorithms that learn using Machine Learning and Artificial Intelligence using technologies such as Pytorch and Tensorflow."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "AUtamation & bots",
+      "description": "creation of automated tasks, bots for telegram and whatsapp, lead capture and data scraping"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/kanto.png",
+      "title": "Kanto Pokedex",
+      "description": "A simple pokedex using React",
+      "link": "View Site",
+      "ref": "https://pendrapokenext.vercel.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/POdcaster.png",
+      "title": "Podcaster",
+      "description": "A Podcaster application using React, tailwind and clean code",
+      "link": "View Site",
+      "ref": "https://podcasternext-rafael.vercel.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/widget.png",
+      "title": "Widget",
+      "description": "A little challenge widget application using concepts like control state",
+      "link": "View Site",
+      "ref": "https://widget-nlw.vercel.app/"
+    }
+  ]
+}
