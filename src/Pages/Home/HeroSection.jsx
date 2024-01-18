@@ -12,7 +12,7 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-            I'm a enthusiastic develepor, willing to show my skills and learn even more. 
+            I'm a enthusiastic developer, willing to show my skills and learn even more. 
             <br /> Love cats, chess and read.
           </p>
         </div>
