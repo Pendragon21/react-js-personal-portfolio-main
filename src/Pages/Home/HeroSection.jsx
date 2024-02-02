@@ -17,7 +17,7 @@ export default function HeroSection() {
           </p>
         </div>
         <br />
-        <a href="./img/CV-English.pdf" class="button" download className="btn btn-primary ">Dowload CV</a>
+        <a href="./CV-English-Rafael.pdf" class="button" download className="btn btn-primary ">Dowload CV</a>
       </div>
       <div className="hero--section--img">
         <img src="./img/logoR.jpeg" alt="Hero Section" />

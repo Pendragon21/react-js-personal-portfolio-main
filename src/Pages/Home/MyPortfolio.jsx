@@ -24,7 +24,7 @@ export default function MyPortfolio() {
                 fill="currentColor"
               />
             </svg>
-            <a href="https://github.com/Pendragon21" target="_blank">Visit My GitHub</a>
+            <a href="https://github.com/RafaelBHMendes" target="_blank">Visit My GitHub</a>
           </button>
         </div>
       </div>
